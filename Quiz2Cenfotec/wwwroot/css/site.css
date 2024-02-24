@@ -1,0 +1,25 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+nav{
+    background: linear-gradient(135deg, #ecf0f1, #f5b041);
+    background-size: 100% 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    background: linear-gradient(135deg, #ecf0f1, #f5b041);
+    background-size: 100% 100%;
+}
